@@ -1,4 +1,4 @@
 test
 ====
 
-It is just a test demo
+It is just a test.
